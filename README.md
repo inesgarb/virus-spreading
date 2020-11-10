@@ -8,9 +8,9 @@ Como se explica en la simulación original y siguiendo los mismos fundamentos, l
 
 
 
-*Nota, si quieres conocer todo el trabajo desarrollado alrededor a esta simulación, puedes visitar la Wiki del proyecto **[aquí](https://github.com/inesgarb/virus-spreading/wiki)**
+Si quieres conocer todo el trabajo desarrollado alrededor a esta simulación, puedes visitar la Wiki del proyecto **[aquí](https://github.com/inesgarb/virus-spreading/wiki)**
 
-*Si únicamente quieres probar la simulación de las conclusiones obtenidas, **[pruebalo](https://mtrajk.github.io/virus-spreading/)**
+Si únicamente quieres probar la simulación de las conclusiones obtenidas, **[pruebalo](https://mtrajk.github.io/virus-spreading/)**
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/MTrajK/virus-spreading/master/images/simulation.gif" width="800px" title="simulation">
