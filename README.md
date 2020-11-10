@@ -1,6 +1,6 @@
 # Difusión del virus
 
-El trabajo de este repositorio está basado en la genial simplificación que ha hecho @MTrajK de este [article](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/) original (escrito por Harry Stevens  [WashingtonPost](https://www.washingtonpost.com/)).\
+El trabajo de este repositorio está basado en la genial simplificación que ha hecho @MTrajK de este [artículo](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/) original (escrito por Harry Stevens  [WashingtonPost](https://www.washingtonpost.com/)).\
 
 El objetivo principal de este trabajo es integrar los resultados observados en un trabajo sobre la difusión del virus y mostrar los mejores parámetros que consiguen **"aplanar la curva"**.\
 
@@ -31,6 +31,6 @@ Como se explica en la simulación original y siguiendo los mismos fundamentos, l
 - [How To See Germs Spread Experiment (Coronavirus)](https://www.youtube.com/watch?v=I5-dI74zxPg)
 
 
-## License
+## Licencia
 
 This project is licensed under the MIT - see the [LICENSE](LICENSE) file for details
