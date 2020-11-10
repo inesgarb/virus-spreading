@@ -1,12 +1,12 @@
 # Difusión del virus
 
-El trabajo de este repositorio está basado en la genial simplificación que ha hecho @MTrajK de este [artículo](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/) original (escrito por Harry Stevens  [WashingtonPost](https://www.washingtonpost.com/)).\
+El trabajo de este repositorio está basado en la genial simplificación que ha hecho @MTrajK de este [artículo](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/) original (escrito por Harry Stevens  [WashingtonPost](https://www.washingtonpost.com/))
 
-El objetivo principal de este trabajo es integrar los resultados observados en un trabajo sobre la difusión del virus y mostrar los mejores parámetros que consiguen **"aplanar la curva"**.\
+El objetivo principal de este trabajo es integrar los resultados observados en un trabajo sobre la difusión del virus y mostrar los mejores parámetros que consiguen **"aplanar la curva"**.
 
 Otro objetivo es mostrar como la separación social tiene un impacto directo en la difusión del virus.
 
-Como se explica en la simulación original y siguiendo los mismos fundamentos, la simulación se basa en JavaScript plano y CSS de manera que se puede ejecutar en cualqueir navegador.
+Como se explica en la simulación original y siguiendo los mismos fundamentos, la simulación se basa en JavaScript plano y CSS de manera que se puede ejecutar en cualquier navegador.
 
 *Nota, si quieres conocer todo el trabajo desarrollado alrededor a esta simulación, puedes visitar la Wiki del proyecto **[aquí](https://github.com/inesgarb/virus-spreading/wiki)**
 
