@@ -113,7 +113,7 @@
         Simulation.init(simulation, chart, simulationStats, simulationEnd, {
             totalPopulation: slidersValues.population,
             sickPopulation: parseInt(slidersValues.population * slidersValues.sick / 100),
-            socialDistancingPopulation: parseInt(slidersValues.population * slidersValues.distancing / 100),
+            socialDistancingPopulation: parseInt(slidersValues.population * 25 * slidersValues.distancing / 100),
             infectionRate: slidersValues.infection / 100,
             deathRate: slidersValues.death / 100
         });
