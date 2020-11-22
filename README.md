@@ -10,7 +10,7 @@ Como se explica en la simulación original y siguiendo los mismos fundamentos, l
 
 Si quieres conocer todo el trabajo desarrollado alrededor a esta simulación, puedes visitar la Wiki del proyecto **[aquí](https://github.com/inesgarb/virus-spreading/wiki)**
 
-Si únicamente quieres probar la simulación de las conclusiones obtenidas, **[pruebalo](https://mtrajk.github.io/virus-spreading/)**
+Si únicamente quieres probar la simulación de las conclusiones obtenidas, **[pruebalo](https://inesgarb.github.io/virus-spreading/)**
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/MTrajK/virus-spreading/master/images/simulation.gif" width="800px" title="simulation">
@@ -19,16 +19,16 @@ Si únicamente quieres probar la simulación de las conclusiones obtenidas, **[p
 
 ## Recursos
 
-- [Why outbreaks like coronavirus spread exponentially, and how to “flatten the curve”](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
-- [Outbreak](https://meltingasphalt.com/interactive/outbreak/)
-- [What Happens Next?](https://ncase.me/covid-19/)
-- [Epidemic Calculator](http://gabgoh.github.io/COVID/index.html)
-- [Simulating an epidemic](https://www.youtube.com/watch?v=gxAaO2rsdIs)
-- [Epidemic, Endemic, and Eradication Simulations](https://www.youtube.com/watch?v=7OLpKqTriio)
-- [Exponential growth and epidemics](https://www.youtube.com/watch?v=Kas0tIxDvrg)
-- [What This Chart Actually Means for COVID-19](https://www.youtube.com/watch?v=fgBla7RepXU)
-- [The Coronavirus Curve](https://www.youtube.com/watch?v=k6nLfCbAzgo)
-- [How To See Germs Spread Experiment (Coronavirus)](https://www.youtube.com/watch?v=I5-dI74zxPg)
+- [Por qué enfermedades como el coronavirus crecen esponencialmente y cómo "aplanar la curva"(en)](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
+- [Outbreak(en)](https://meltingasphalt.com/interactive/outbreak/)
+- [¿Qué pasará ahora?(en)](https://ncase.me/covid-19/)
+- [Caluladora de la epidemia(en)](http://gabgoh.github.io/COVID/index.html)
+- [Simular una epidemia(en)](https://www.youtube.com/watch?v=gxAaO2rsdIs)
+- [Epidemia, endémica y simulación de erradicación(en)](https://www.youtube.com/watch?v=7OLpKqTriio)
+- [Crecimiento exponencial y epidemias(en)](https://www.youtube.com/watch?v=Kas0tIxDvrg)
+- [Cuál es la gráfica que explica de verdad el COVID-19(en)](https://www.youtube.com/watch?v=fgBla7RepXU)
+- [La curva del coronavirus (en)](https://www.youtube.com/watch?v=k6nLfCbAzgo)
+- [¿Cómo se distribuyen los gérmenes? (en)](https://www.youtube.com/watch?v=I5-dI74zxPg)
 
 
 ## Licencia
