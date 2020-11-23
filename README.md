@@ -7,10 +7,7 @@ El objetivo principal de este trabajo es integrar los resultados observados en u
 Como se explica en la simulación original y siguiendo los mismos fundamentos, la simulación se basa en JavaScript y CSS de manera que se puede ejecutar en cualquier navegador.
 
 
-
-*/Si quieres conocer todo el trabajo desarrollado alrededor a esta simulación, puedes visitar la Wiki del proyecto **[aquí](https://github.com/inesgarb/virus-spreading/wiki)/**
-
-Si únicamente quieres probar la simulación de las conclusiones obtenidas, **[pruebalo](https://inesgarb.github.io/virus-spreading/)**
+Si  quieres probar la simulación de las conclusiones obtenidas, **[pruebalo](https://inesgarb.github.io/virus-spreading/)**
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/MTrajK/virus-spreading/master/images/simulation.gif" width="800px" title="simulation">
