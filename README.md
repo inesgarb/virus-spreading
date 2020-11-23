@@ -8,7 +8,7 @@ Como se explica en la simulación original y siguiendo los mismos fundamentos, l
 
 
 
-Si quieres conocer todo el trabajo desarrollado alrededor a esta simulación, puedes visitar la Wiki del proyecto **[aquí](https://github.com/inesgarb/virus-spreading/wiki)**
+*/Si quieres conocer todo el trabajo desarrollado alrededor a esta simulación, puedes visitar la Wiki del proyecto **[aquí](https://github.com/inesgarb/virus-spreading/wiki)/**
 
 Si únicamente quieres probar la simulación de las conclusiones obtenidas, **[pruebalo](https://inesgarb.github.io/virus-spreading/)**
 
